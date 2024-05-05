@@ -1,0 +1,15 @@
+li{
+    list-style: none;
+}
+
+.Card{
+    border:2px solid black;
+    max-width: 400px;
+    margin-left: 430px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+#heading{
+    margin-top: 40px;
+}
